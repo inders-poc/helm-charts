@@ -26,7 +26,7 @@ entries:
     - https://github.com/argoproj/argo-helm/tree/main/charts/argo-cd
     - https://github.com/argoproj/argo-cd
     urls:
-    - https://inders-poc.github.com/helm-charts/argo-cd-5.22.1.tgz
+    - https://inders-poc.github.io/helm-charts/argo-cd-5.22.1.tgz
     version: 5.22.1
   redis-ha:
   - apiVersion: v2
@@ -52,6 +52,6 @@ entries:
     - https://github.com/DandyDeveloper/charts/blob/master/charts/redis-ha
     - https://github.com/oliver006/redis_exporter
     urls:
-    - https://inders-poc.github.com/helm-charts/redis-ha-4.22.4.tgz
+    - https://inders-poc.github.io/helm-charts/redis-ha-4.22.4.tgz
     version: 4.22.4
 generated: "2023-02-21T14:21:24.176075+04:00"
