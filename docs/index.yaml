@@ -105,4 +105,5 @@ entries:
     - https://github.com/oliver006/redis_exporter
     urls:
     - https://inders-poc.github.io/helm-charts/argo-apps-base-1.0.10.tgz
+    version: 1.0.10
 generated: "2023-02-21T14:21:24.176075+04:00"
